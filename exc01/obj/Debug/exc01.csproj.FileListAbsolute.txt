@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\bin\Debug\exc01.exe.config
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\bin\Debug\exc01.exe
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\bin\Debug\exc01.pdb
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\obj\Debug\exc01.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\obj\Debug\exc01.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\obj\Debug\exc01.exe
+C:\Users\T-Gamer\Documents\iota\ADNPs\POO\Vstudio\exc01\obj\Debug\exc01.pdb
